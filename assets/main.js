@@ -948,7 +948,7 @@
                     singer_third: '',
                     path: './assets/music/lalung.mp3',
                     image: './assets/img/song/lalung.jpg',
-                    time: '03:32'
+                    time: '04:21'
                 },
                 {
                     name: 'Từng Quen',
@@ -957,7 +957,7 @@
                     singer_third: '',
                     path: './assets/music/tungquen.mp3',
                     image: './assets/img/song/tungquen.jpg',
-                    time: '03:57'
+                    time: '03:11'
                 },
                 {
                     name: 'Đông Kiếm Em',
@@ -966,7 +966,7 @@
                     singer_third: '',
                     path: './assets/music/dongkiemem.mp3',
                     image: './assets/img/song/dongkiemem.jpg',
-                    time: '03:36'
+                    time: '04:06'
                 },
                 {
                     name: 'Đã Từng Là',
@@ -975,7 +975,7 @@
                     singer_third: '',
                     path: './assets/music/datungla.mp3',
                     image: './assets/img/song/datungla.jpg',
-                    time: '06:39'
+                    time: '04:26'
                 },
                 {
                     name: 'Đợi',
@@ -984,7 +984,7 @@
                     singer_third: '', 
                     path: './assets/music/doi.mp3', 
                     image: './assets/img/song/doi.jpg',
-                    time: '04:49'
+                    time: '03:17'
                 },
                 {
                     name: 'Bước Qua Mùa Cô Đơn',
@@ -993,7 +993,7 @@
                     singer_third: '', 
                     path: './assets/music/buocquamuacodon.mp3',
                     image: './assets/img/song/buocquamuacodon.jpg',
-                    time: '06:21'
+                    time: '05:42'
                 },
                 {
                     name: 'Những Lời Hứa Bỏ Quên',
@@ -1002,7 +1002,7 @@
                     singer_third: '', 
                     path: './assets/music/nhungloihuaboquen.mp3', 
                     image: './assets/img/song/nhungloihuaboquen.jpg',
-                    time: '03:26'
+                    time: '04:18'
                 },
                 {
                     name: 'Bạn Đời',
@@ -1011,7 +1011,7 @@
                     singer_third: '', 
                     path: './assets/music/bandoi.mp3',
                     image: './assets/img/song/bandoi.jpg',
-                    time: '04:45'
+                    time: '05:18'
                 },
                 {
                     name: 'Yêu Em Hơn Mỗi Ngày',
@@ -1020,7 +1020,7 @@
                     singer_third: '',
                     path: './assets/music/yeuemhonmoingay.mp3',
                     image: './assets/img/song/yeuemhonmoingay.jpg',
-                    time: '04:45'
+                    time: '04:58'
                 },
                 {
                     name: 'Flower',
@@ -1029,7 +1029,7 @@
                     singer_third: '', 
                     path: './assets/music/flower.mp3',
                     image: './assets/img/song/flower.jpg',
-                    time: '04:41'
+                    time: '03:04'
                 },
                 {
                     name: 'Style',
@@ -1038,7 +1038,7 @@
                     singer_third: '', 
                     path: './assets/music/style.mp3',
                     image: './assets/img/song/style.jpg',
-                    time: '03:52'
+                    time: '04:03'
                 },
                 {
                     name: 'Perfect',
@@ -1047,7 +1047,7 @@
                     singer_third: '', 
                     path: './assets/music/perfect.mp3',
                     image: './assets/img/song/perfect.jpg',
-                    time: '04:49'
+                    time: '04:39'
                 },
                 {
                     name: 'Memories',
@@ -1056,7 +1056,7 @@
                     singer_third: '', 
                     path: './assets/music/memories.mp3',
                     image: './assets/img/song/memories.jpg',
-                    time: '03:55'
+                    time: '03:15'
                 },
                 {
                     name: 'See you again',
@@ -1065,7 +1065,7 @@
                     singer_third: '',
                     path: './assets/music/See you again.mp3',
                     image: './assets/img/song/See you again.jpg',
-                    time: '03.55'
+                    time: '03:57'
                 },
                 {
                     name: 'At My Worst',
@@ -1074,7 +1074,7 @@
                     singer_third: '',
                     path: './assets/music/Pink Sweat$ - At My Worst.mp3',
                     image: './assets/img/song/Pink Sweat$ - At My Worst.jpg',
-                    time: '03.55'
+                    time: '03:11'
                 },
                 {
                     name: 'Reality',
@@ -1083,7 +1083,7 @@
                     singer_third: '',
                     path: './assets/music/reality.mp3',
                     image: './assets/img/song/reality.jpg',
-                    time: '03.55'
+                    time: '02:49'
                 },
                 {
                     name: 'Pretty Girl',
@@ -1092,7 +1092,7 @@
                     singer_third: '',
                     path: './assets/music/prettygirl.mp3',
                     image: './assets/img/song/prettygirl.jpg',
-                    time: '03.55'
+                    time: '03:13'
                 },
                 {
                     name: 'Tết Bình An',
@@ -1101,7 +1101,7 @@
                     singer_third: '',
                     path: './assets/music/tetbinhan.mp3',
                     image: './assets/img/album/tetbinhan.jpg',
-                    time: '03.55'
+                    time: '03:49'
                 },
                 {
                     name: 'Mang Tiền Về Cho Mẹ',
@@ -1110,7 +1110,7 @@
                     singer_third: '',
                     path: './assets/music/mangtienvechome.mp3',
                     image: './assets/img/album/mangtienvechome.jpg',
-                    time: '03.55'
+                    time: '04:59'
                 },
                 {
                     name: 'Như Hoa Mùa Xuân',
@@ -1119,7 +1119,7 @@
                     singer_third: '',
                     path: './assets/music/nhuhoamuaxuan.mp3',
                     image: './assets/img/album/nhuhoamuaxuan.jpg',
-                    time: '03.55'
+                    time: '03:51'
                 },
                 {
                     name: 'Năm Qua Đã Làm gì',
@@ -1128,7 +1128,7 @@
                     singer_third: '',
                     path: './assets/music/namquadalamgi.mp3',
                     image: './assets/img/album/namquadalamgi.jpg',
-                    time: '03.55'
+                    time: '03:51'
                 },
                 {
                     name: 'Đi để trở về',
@@ -1137,7 +1137,7 @@
                     singer_third: '',
                     path: './assets/music/didetrove.mp3',
                     image: './assets/img/album/didetrove.jpg',
-                    time: '03.55'
+                    time: '03:50'
                 },
                 {
                     name: 'Long Phụng Sum Vầy',
@@ -1146,7 +1146,7 @@
                     singer_third: 'Hồng Phương',
                     path: './assets/music/longphungsumvay.mp3',
                     image: './assets/img/album/longphungsumvay.jpg',
-                    time: '03.55'
+                    time: '04:03'
                 },
                 {
                     name: 'Tết Này Con Sẽ Về',
@@ -1155,7 +1155,7 @@
                     singer_third: '',
                     path: './assets/music/tetnayconseve.mp3',
                     image: './assets/img/album/tetnayconseve.jpg',
-                    time: '03.55'
+                    time: '03:40'
                 },
                 {
                     name: 'Tết Đong Đầy',
@@ -1164,7 +1164,7 @@
                     singer_third: 'Duck V',
                     path: './assets/music/tetdongday.mp3',
                     image: './assets/img/album/tetdongday.jpg',
-                    time: '03.55'
+                    time: '04:10'
                 },
             ],
 
